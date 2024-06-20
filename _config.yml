@@ -1,11 +1,11 @@
 title: Zhenya Avramenko
-logo: "/images/logo.png?raw=true"
+logo: "/images/cat.jpg?raw=true"
 description: > 
   First description 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/yevhenii-avramenko-084626246">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
