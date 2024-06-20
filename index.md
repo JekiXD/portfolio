@@ -10,7 +10,7 @@
 [Water simulation](https://github.com/JekiXD/water-simulation)
 <img src="images/water_simulation.gif"/>
 
----
+
 
 
 
